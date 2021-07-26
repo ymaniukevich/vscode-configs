@@ -1,0 +1,6 @@
+#C:\ProgramData\ssh\ssh_config
+Host kubernetes
+    HostName 10.181.91.195
+    User ansibleuser
+        IdentityFile C:\Users\Yauheni_Maniukevich\Desktop\Putty\ansibleuser.txt
+        IdentitiesOnly yes
